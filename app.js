@@ -1,4 +1,4 @@
-let = amigos =[];
+let  amigos =[];
 let amigoInput = document.querySelector("#amigo");
 let listaDeAmigos = document.querySelector("#listaAmigos");
 let amigoSecreto = document.querySelector("#resultado");
